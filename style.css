@@ -1,10 +1,11 @@
 :root {
     --cor-primaria: #420B25;
-    --cor-secundaria:#A86081;
+    --cor-secundaria:#DB95AB;
     --cor-fundo: #FFA6CF;
     --cor-texto: #ffffff;
     --cor-contraste: #752B4D;
     --cor-botao: #FF5D8F;
+
 }
 
 body {
@@ -40,6 +41,7 @@ article {
     text-align: center;
     align-items: center;
     justify-content: center;
+    background-color: var(#FF5D8F);
 }
 
 img {
