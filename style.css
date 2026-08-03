@@ -1,0 +1,21 @@
+root {
+    --cor-primaria: #420B25;
+    --cor-secundaria:#A86081;
+    --cor-fundo: #FFA6CF;
+    --cor-texto: #ffffff;
+    --cor-contraste: #752B4D;
+    --cor-botao: #FF5D8F;
+}
+
+body{
+    max-width: 100vw;
+    font-family: 'Gill Sans', 'Gill Sans MT',Calibri,'Trebuche';
+}
+
+header{
+background-color: var(--cor-primaria);
+color: var(--cor-contraste);
+text-align: center;
+margin: 0 auto;
+padding: 16px;
+}
